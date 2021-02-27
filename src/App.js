@@ -1,12 +1,12 @@
 import React, { useEffect, useReducer } from "react";
 import "./App.css";
-import axios from "axios";
 import Navbar from "./Components/Navbar/Navbar";
 import CardContainer from "./Components/CardContainer/CardContainer";
-import Card from "./Components/Card/Card";
+import Card from "./Components/Card/Projects";
 import ImgTags from "./Components/ImgTags/ImgTags";
 import Project from "./projects.json";
 import Footer from "./Components/Footer/Footer";
+import Contact from "./Components/Card/Contact";
 
 function App() {
   // // spread operator
@@ -35,6 +35,8 @@ function App() {
         }}
       />
       <CardContainer state={title}>
+        <Contact />
+
         {/* {Project.map((project, index) => (
           <Card key={index} project={project}>
             <ImgTags image={project.image} alt={project.alt} />

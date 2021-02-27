@@ -10,7 +10,6 @@ const CardContainer = (props) => {
           </div>
         </div>
       </section>
-
       {props.children}
     </main>
   );
