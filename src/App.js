@@ -7,6 +7,7 @@ import ImgTags from "./Components/ImgTags/ImgTags";
 import Project from "./projects.json";
 import Footer from "./Components/Footer/Footer";
 import Contact from "./Components/Card/Contact";
+import About from "./Components/Card/About";
 
 function App() {
   // // spread operator
