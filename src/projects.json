@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Random Password",
+    "alt": "random-password",
+    "image": "https://user-images.githubusercontent.com/70654835/99455253-72de0080-28dc-11eb-8952-39fc62626858.png",
+    "github": "https://github.com/Shellsea31/Password_Generator",
+    "live": "https://shellsea31.github.io/Password_Generator/"
+  },
+  {
+    "id": 2,
+    "name": "Villagers 101",
+    "alt": "animal-crossing",
+    "image": "https://user-images.githubusercontent.com/70654835/106370494-5b28ec80-630f-11eb-8adf-a9276be1bb49.png",
+    "github": "https://github.com/Shellsea31/i-heart-villagers",
+    "live": "https://radiant-woodland-55913.herokuapp.com/"
+  },
+  {
+    "id": 3,
+    "name": "Piknik",
+    "alt": "piknik_project",
+    "image": "https://user-images.githubusercontent.com/71571952/99150242-ed422280-2647-11eb-8f38-e357a72de8a7.png",
+    "github": "https://github.com/Shellsea31/Piknik",
+    "live": "https://shellsea31.github.io/Piknik/"
+  },
+  {
+    "id": 4,
+    "name": "Employee Tracker",
+    "alt": "Employee-Tracker",
+    "image": "https://user-images.githubusercontent.com/70654835/101710189-d83d9100-3a45-11eb-822d-f6dc8bcca61b.png",
+    "github": "https://github.com/Shellsea31/Employee_Summary",
+    "live": "https://github.com/Shellsea31/Employee_Summary"
+  }
+]
