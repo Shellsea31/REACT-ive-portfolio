@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Shellsea31/REACT-ive-portfolio/static/css/main.4261a5b0.chunk.css",
+    "main.js": "/Shellsea31/REACT-ive-portfolio/static/js/main.702e53fc.chunk.js",
+    "main.js.map": "/Shellsea31/REACT-ive-portfolio/static/js/main.702e53fc.chunk.js.map",
+    "runtime-main.js": "/Shellsea31/REACT-ive-portfolio/static/js/runtime-main.206d48cf.js",
+    "runtime-main.js.map": "/Shellsea31/REACT-ive-portfolio/static/js/runtime-main.206d48cf.js.map",
+    "static/js/2.1f45dafb.chunk.js": "/Shellsea31/REACT-ive-portfolio/static/js/2.1f45dafb.chunk.js",
+    "static/js/2.1f45dafb.chunk.js.map": "/Shellsea31/REACT-ive-portfolio/static/js/2.1f45dafb.chunk.js.map",
+    "static/js/3.024f27d7.chunk.js": "/Shellsea31/REACT-ive-portfolio/static/js/3.024f27d7.chunk.js",
+    "static/js/3.024f27d7.chunk.js.map": "/Shellsea31/REACT-ive-portfolio/static/js/3.024f27d7.chunk.js.map",
+    "index.html": "/Shellsea31/REACT-ive-portfolio/index.html",
+    "static/css/main.4261a5b0.chunk.css.map": "/Shellsea31/REACT-ive-portfolio/static/css/main.4261a5b0.chunk.css.map",
+    "static/js/2.1f45dafb.chunk.js.LICENSE.txt": "/Shellsea31/REACT-ive-portfolio/static/js/2.1f45dafb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Shellsea31/REACT-ive-portfolio/static/media/background.f07d75c3.jpg",
+    "static/media/App.css": "/Shellsea31/REACT-ive-portfolio/static/media/card.5a44a256.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.206d48cf.js",
+    "static/js/2.1f45dafb.chunk.js",
+    "static/css/main.4261a5b0.chunk.css",
+    "static/js/main.702e53fc.chunk.js"
+  ]
+}
