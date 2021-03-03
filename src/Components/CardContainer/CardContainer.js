@@ -12,11 +12,15 @@ const CardContainer = (props) => {
       card = <About />;
       break;
     case "Projects":
-      card = Project.map((project, index) => (
-        <Card key={index} project={project}>
-          <ImgTags image={project.image} alt={project.alt} />
-        </Card>
-      ));
+      card = (
+        <div className="row">
+          {Project.map((project, index) => (
+            <Card key={index} project={project}>
+              <ImgTags image={project.image} alt={project.alt} />
+            </Card>
+          ))}
+        </div>
+      );
       break;
     case "Contact":
       card = <Contact />;
@@ -36,7 +40,7 @@ const CardContainer = (props) => {
           </div>
         </div>
       </section>
-      {card}
+      <section className="container">{card}</section>
     </main>
   );
 };

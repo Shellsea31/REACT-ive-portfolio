@@ -6,14 +6,13 @@ const Contact = () => {
   };
   return (
     <div className="col-sm-12" style={style}>
+      <h2 align="center">Reach Out</h2>
       <div className="row">
-        <h2 align="center">Reach Out</h2>
         <h6>Email: elainesbarrera@gmail.com</h6>
         <h6>Phone number: 408-642-4079</h6>
       </div>
-
+      <h2 align="center">My Work</h2>
       <div className="row">
-        <h2 align="center">My Work</h2>
         <h6>
           Github:
           <span>
