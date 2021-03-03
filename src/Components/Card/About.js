@@ -32,7 +32,8 @@ const About = () => {
             graduated nonetheless and began a part time job. When I found an
             opportunity to study Web Development, I was very excited because it
             is a topic that has always intrigued me. I'm thankful for this
-            opportunity and I will strive to absorb as much as I can.
+            opportunity and I will strive to absorb as much as I can. Click
+            "Projects" up top to see what I'm all about!
           </p>
         </div>
       </div>
