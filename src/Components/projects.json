@@ -30,5 +30,21 @@
     "image": "https://user-images.githubusercontent.com/70654835/101710189-d83d9100-3a45-11eb-822d-f6dc8bcca61b.png",
     "github": "https://github.com/Shellsea31/Employee_Summary",
     "live": "https://github.com/Shellsea31/Employee_Summary"
+  },
+  {
+    "id": 5,
+    "name": "Note Taker",
+    "alt": "note-taker",
+    "image": "https://user-images.githubusercontent.com/70654835/102424132-67572580-3fbf-11eb-9d6d-554fe66d37ba.png",
+    "github": "https://github.com/Shellsea31/JotItDown",
+    "live": "https://shellsea31.github.io/JotItDown/"
+  },
+  {
+    "id": 6,
+    "name": "Employee Directory",
+    "alt": "directory",
+    "image": "https://user-images.githubusercontent.com/70654835/109239645-bde49b00-778a-11eb-805c-e197c7100247.png",
+    "github": "https://github.com/Shellsea31/Employee-Directory",
+    "live": "https://an-employee-directory-app.herokuapp.com/"
   }
 ]
