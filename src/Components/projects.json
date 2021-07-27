@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "Random Password",
+    "description":"A simple way to create the ultimate password for any site requirements.",
     "alt": "random-password",
     "image": "https://user-images.githubusercontent.com/70654835/99455253-72de0080-28dc-11eb-8952-39fc62626858.png",
     "github": "https://github.com/Shellsea31/Password_Generator",
@@ -10,6 +11,7 @@
   {
     "id": 2,
     "name": "Villagers 101",
+    "description" :"For all animal crossing fans obsessed with their virtual friends!",
     "alt": "animal-crossing",
     "image": "https://user-images.githubusercontent.com/70654835/106370494-5b28ec80-630f-11eb-8adf-a9276be1bb49.png",
     "github": "https://github.com/Shellsea31/i-heart-villagers",
@@ -18,6 +20,7 @@
   {
     "id": 3,
     "name": "Piknik",
+    "description" : "Want to explore the town but don't know where to start? Piknik can help.",
     "alt": "piknik_project",
     "image": "https://user-images.githubusercontent.com/71571952/99150242-ed422280-2647-11eb-8f38-e357a72de8a7.png",
     "github": "https://github.com/Shellsea31/Piknik",
@@ -26,6 +29,7 @@
   {
     "id": 4,
     "name": "Employee Tracker",
+    "description":"Keep all relevant information on your valued employees in one place.",
     "alt": "Employee-Tracker",
     "image": "https://user-images.githubusercontent.com/70654835/101710189-d83d9100-3a45-11eb-822d-f6dc8bcca61b.png",
     "github": "https://github.com/Shellsea31/Employee_Summary",
@@ -34,6 +38,7 @@
   {
     "id": 5,
     "name": "Note Taker",
+    "description":"Implementing CRUD functionality in a useful way.",
     "alt": "note-taker",
     "image": "https://user-images.githubusercontent.com/70654835/102424132-67572580-3fbf-11eb-9d6d-554fe66d37ba.png",
     "github": "https://github.com/Shellsea31/JotItDown",
@@ -42,6 +47,7 @@
   {
     "id": 6,
     "name": "Employee Directory",
+    "description":"Find your values employees by first name or organize them in descending order of last name.",
     "alt": "directory",
     "image": "https://user-images.githubusercontent.com/70654835/109239645-bde49b00-778a-11eb-805c-e197c7100247.png",
     "github": "https://github.com/Shellsea31/Employee-Directory",

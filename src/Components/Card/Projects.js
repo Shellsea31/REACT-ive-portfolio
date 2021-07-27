@@ -9,8 +9,9 @@ const Card = (props) => {
       <div className="card border-dark mb-3">
         {props.children}
         <div className="card-body">
-          <h4 className="card-title">{props.project.name}</h4>
-          <p>
+          <h3 className="card-title">{props.project.name}</h3>
+          <h6>{props.project.description}</h6>
+          <li>
             Visit the repository{" "}
             <a
               className="a-repo"
@@ -20,8 +21,8 @@ const Card = (props) => {
             >
               here
             </a>
-          </p>
-          <p>
+          </li>
+          <li>
             Visit the deployed app{" "}
             <a
               className="a-repo"
@@ -31,7 +32,7 @@ const Card = (props) => {
             >
               here
             </a>
-          </p>
+          </li>
         </div>
       </div>
     </div>

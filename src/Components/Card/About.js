@@ -16,22 +16,12 @@ const About = () => {
           />
 
           <p>
-            Hi! My name is Shelsy Barrera and I'm a 21 year old student from San
-            Jose, CA. On this site you'll find examples of some of my best work
-            since I've started the Berkley Coding Bootcamp. This program has
-            definitely challenged me, and I've learned a lot about self
-            discipline and determination. I've accomplished tasks in time I
-            never thought possible.
-          </p>
-
-          <p>
-            Straight out of highschool, I studied Medical Assisting for two
-            years and quickly realized it wasn't my career of choice. I
-            graduated nonetheless and began a part time job. When I found an
-            opportunity to study Web Development, I was very excited because it
-            is a topic that has always intrigued me. I'm thankful for this
-            opportunity and I will strive to absorb as much as I can. Click
-            "Projects" up top to see what I'm all about!
+            Hi! My name is Shelsy Barrera and I'm a recently graduated Full
+            Stack Web Developer. On this site you'll find examples of some of my
+            best work I've completed during the Berkeley Coding Bootcamp. This
+            program has definitely challenged me, and I've learned a lot about
+            self discipline and determination. Click "Projects" up top to see
+            what I'm all about!
           </p>
         </div>
       </div>
