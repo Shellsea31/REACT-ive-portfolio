@@ -10,7 +10,7 @@ This is a react-based portfolio! Here you'll find information about me, Shelsy B
 ![image](https://user-images.githubusercontent.com/70654835/109752060-8dd73680-7b94-11eb-9599-88e242c0eb8e.png)
 ![image](https://user-images.githubusercontent.com/70654835/109752077-962f7180-7b94-11eb-9eed-f7da51ee2080.png)
 
-**Visit the deployed version [here]()**
+**Visit the deployed version [here](https://shellsea31.github.io/REACT-ive-portfolio/)**
 
 ## Contributors
 
